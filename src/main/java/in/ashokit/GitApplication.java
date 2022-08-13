@@ -14,7 +14,7 @@ public class GitApplication {
 		
 	}
 	public void test(){
-		
+		System.out.println("dev2");
 	}
 }
 
