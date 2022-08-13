@@ -11,8 +11,12 @@ public class GitApplication {
 	}
 	private void mytest() {
 		
+		
 	}
+	
+	
 	public void test(){
+		System.out.println("dev2");
 		
 	}
 }
