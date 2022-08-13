@@ -10,13 +10,12 @@ public class GitApplication {
 		SpringApplication.run(GitApplication.class, args);
 	}
 	private void mytest() {
-		
+		System.out.println("tetett");
 		
 	}
 	
 	
 	public void test(){
-		System.out.println("dev2");
 		
 	}
 }
